@@ -1,4 +1,4 @@
-# Unity2022.3.16f1
+# For-Loop Uebung
 
 ### Projektbeschreibung: 
 Wiederholung der Aufgabe von einer for-Schleife, die eine definierte Abfolge von Sternchen und Minuszeichen ausgibt. 
