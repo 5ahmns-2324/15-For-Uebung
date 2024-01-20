@@ -1,36 +1,35 @@
-# Unity2022.3.16f1-README-Template
+# Unity2022.3.16f1
 
 ### Projektbeschreibung: 
-Einführung in / Zusammenfassung des Projektes. 
+Wiederholung der Aufgabe von einer for-Schleife, die eine definierte Abfolge von Sternchen und Minuszeichen ausgibt. 
 
 ### Entwicklungsplattform: 
-(Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
+Unity2022.3.16f1
+Visual Studio 2022
 
 ### Zielplattform: 
-WebGL Referenzauflösung (960x600) 
+keine 
 
 ### Visuelle Einblicke in das Projekt: 
-Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
+keine
 
 ### Notwendiges für die Ausführung: 
-z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
+Zeichenabfolge wird in Unity auf Konsole ausgegeben 
 
 ### Drittmaterial: 
-Falls verwendet Fonts, Sounds, Music, Graphics, Materials, Code etc. welches nicht von mir stammt muss hier referenziert werden. 
+keine
 
 ### Anforderungsliste:  
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
+- [x] for Loop zur Ausgabe der Minuszeichen
+
 
 ### Limitationen:
-Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von den Anforderungen nicht umgesetz. Wo waren die Probleme. 
+Übergabe des Werts der lokalen Variable zeile an aktuelleZeile. Funktioniert jetzt.
 
 ### Lessons Learned:
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] Funktionsweise von For-Loops
+- [x] Übergabe lokaler Variablen
+- [x] Mathematische Prozesse hinter for-Loops
 
-Copyright by you :)
+
+Copyright by Caro :)
